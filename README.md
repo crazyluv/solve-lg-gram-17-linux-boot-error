@@ -1,7 +1,7 @@
 # solve-lg-gram-17-linux-boot-error
 Solve! LG gram 17 linux boot infinite acpi error for kernel 4.18 over
 
-I found a workaround for apci infinite error in LG Gram 17 inch kernel 4.18 and above. I just tested it and successfully booted ubuntu 19.04 kernel 5.0.
+I found a workaround for acpi infinite error in LG Gram 17 inch kernel 4.18 and above. I just tested it and successfully booted ubuntu 19.04 kernel 5.0.
 
 In the meantime, many Linux in the world have been uncomfortable with this problem. It seems to be able to help enough, but stick to the policy that the OS can not help any other than Windows, so I'm disappointed with the manufacturer LG, who didn't give any help.
 
