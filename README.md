@@ -12,7 +12,7 @@ I  looked at all the settings for the 14-inch grams of 2018 that were before 17 
 5. Select Thunderbolt (TM) Configuration.
 6. Select Discrete Thunderbolt (TM) Configuration.
 7. Select Thunderbolt (TM) OS Select.
-8. Set Windows 10 Thunderbolt support to Disabled(ed: or "Enabled", without RTD3). After a delay of about 5 seconds after setting, the confirmation message for saving the setting changes appears.
+8. Set Windows 10 Thunderbolt support to Enabled(without RTD3 or "Disabled"). After a delay of about 5 seconds after setting, the confirmation message for saving the setting changes appears.
 9. Save the changed settings and reboot.
 10. Now you can boot normally(without having to set "pci=nommconf" in grub) with the latest kernel!
 
