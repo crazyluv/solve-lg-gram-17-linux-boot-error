@@ -12,9 +12,11 @@ I  looked at all the settings for the 14-inch grams of 2018 that were before 17 
 5. Select Thunderbolt (TM) Configuration.
 6. Select Discrete Thunderbolt (TM) Configuration.
 7. Select Thunderbolt (TM) OS Select.
-8. Set Windows 10 Thunderbolt support to Disabled. After a delay of about 5 seconds after setting, the confirmation message for saving the setting changes appears.
+8. Set Windows 10 Thunderbolt support to Disabled(ed: or "Enabled"). After a delay of about 5 seconds after setting, the confirmation message for saving the setting changes appears.
 9. Save the changed settings and reboot.
-10. Now you can boot normally with the latest kernel! enjoy linux!
+10. Now you can boot normally(without having to set "pci=nommconf" in grub) with the latest kernel!
+
+enjoy linux!
 
 
 I got a hint and the link is https://github.com/dhedlund/kernel-patch-lg-gram-17 and I found that it seems to be a problem with Thunderbolt.
